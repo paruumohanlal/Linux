@@ -5,8 +5,7 @@
 - Roll Number: 24BAS10065
 
 ## Branch
-B.tech CYBER SECURITY & DIGITAL FORENSICS
-
+B.tech Aerospace Engineering
 ## Chosen Software
 Git (Version Control System)
 
